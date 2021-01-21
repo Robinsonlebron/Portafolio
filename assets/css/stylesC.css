@@ -1,0 +1,72 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+div#gen{
+    margin: auto;
+    margin-top: 50px;
+    width: 960px;
+    height: 1150px;
+    background-color: gray;
+}
+div#PicandName{
+   width: 960px;
+   height: 250px;
+   background-color: rgb(46, 38, 38);
+
+}
+div#foto{
+    float: left;
+    width: 230px;
+   height: 250px;
+   background-color: rgb(46, 38, 38);
+}
+div#name{
+     float: left;
+    width: 380px;
+   height: 250px;
+   background-color:rgb(46, 38, 38);
+}
+
+
+div#info{
+    float: left;
+    text-align: center;
+    width: 350px;
+   height: 250px;
+   background-color: rgb(46, 38, 38);
+
+}
+
+div#left{
+    float: left;
+    width: 475px;
+    height: 900px;
+    background-color: rgb(243, 243, 243);
+}
+
+div#right{
+    float: right;
+    width: 475px;
+    height: 900px;
+    background-color: rgb(206, 202, 202);
+}
+img{
+    margin-top: 25px;
+    margin-left: 20px;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+
+meter{
+    float: right; 
+    width: 150px;
+    height: 20px;
+
+ 
+}
+a{
+    text-decoration: none;
+}
